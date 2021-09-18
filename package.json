@@ -1,0 +1,13 @@
+{
+  "name": "auth-service-serverless",
+  "version": "1.0.0",
+  "author": "Meet Alodariya",
+  "description": "Authentication service",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.1.0"
+  },
+  "devDependencies": {
+    "serverless-bundle": "^1.3.3"
+  }
+}
